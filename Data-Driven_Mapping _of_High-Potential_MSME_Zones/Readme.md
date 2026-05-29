@@ -363,9 +363,9 @@ git add .gitattributes
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**[Adhavan Ponram]**
+- GitHub: [@AdhavanHero](https://github.com/AdhavanHero)
+- LinkedIn: [Adhavan_Ponram](https://www.linkedin.com/in/adhavan-ponram/)
 
 *This project was built as a capstone to demonstrate integrated business intelligence using real Indian government datasets. All source data is publicly available.*
 
